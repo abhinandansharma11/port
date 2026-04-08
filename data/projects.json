@@ -1,0 +1,37 @@
+[
+  {
+    "title": "WECode – Competitive Coding Platform",
+    "description": "A fully-featured competitive coding platform with 100+ problems, multi-language code execution, real-time test-case feedback, an AI-powered hint assistant, and a monetized video solution system with role-based access control.",
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "Redis", "Socket.IO", "Judge0 API", "SendGrid"],
+    "liveUrl": "",
+    "codeUrl": "https://github.com/abhinandansharma11/LetsCode1"
+  },
+  {
+    "title": "NiteBite – Real-Time Food Ordering Platform",
+    "description": "A real-time food ordering platform for a college night canteen. Students place orders, canteen workers confirm and track preparation — all synchronized live across dashboards. Tested with 150+ simultaneous users with zero failures.",
+    "tech": ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Socket.IO", "SMTP"],
+    "liveUrl": "https://nitebite.live",
+    "codeUrl": "https://github.com/abhinandansharma11/online"
+  },
+  {
+    "title": "Fake News Detection – ML/NLP Web App",
+    "description": "A full-stack NLP application with a Logistic Regression model achieving 98.94% accuracy on 9,000+ samples. Features TF-IDF vectorization, confidence scores, prediction history, and comparative model metrics.",
+    "tech": ["React.js", "Flask", "Scikit-learn", "NLTK", "TF-IDF", "Python"],
+    "liveUrl": "",
+    "codeUrl": "https://github.com/abhinandansharma11/Detector"
+  },
+  {
+    "title": "GoChat – Real-Time Chat Web Application",
+    "description": "A real-time messaging application with low-latency one-to-one communication, secure authentication and session management for registered users, media sharing, presence tracking, and scalable backend APIs with efficient message storage and retrieval.",
+    "tech": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.IO"],
+    "liveUrl": "",
+    "codeUrl": "https://github.com/abhinandansharma11/Chat-backend"
+  },
+  {
+    "title": "DSA Visualizer",
+    "description": "An interactive platform to visualize various Data Structures and Algorithms with smooth animations and concise explanations, featuring secure user authentication with login/logout and a responsive, visually appealing frontend for a seamless cross-device experience.",
+    "tech": ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "HTML", "JavaScript"],
+    "liveUrl": "",
+    "codeUrl": "https://github.com/abhinandansharma11/DSA-VISUALISER"
+  }
+]
